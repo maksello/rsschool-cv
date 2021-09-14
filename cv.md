@@ -1,5 +1,7 @@
 # CV Maksym Snihur
 
+![Maksym Snihur](img.png)
+
 Age:32
 
 Phone:0631053373
