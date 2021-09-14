@@ -29,3 +29,7 @@ of information in computer systems and networks.
 February 2020 - May 2020 - Delphi Software
 
 - Development of software that implements the function of voice assistants in vehicles.
+
+  **Personal qualities:**
+
+  _Persistent, active, analytical, communicable, high learning orientation._
