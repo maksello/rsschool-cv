@@ -34,10 +34,15 @@ February 2020 - May 2020 - Delphi Software
 
 **Software, language and technology knowledge:**
 Programming and technologies: HTML, CSS, JavaScript, TypeScript
+
 Integrated development environment: VS Code, IntelliJ IDEA
+
 DB: SQL Queries, Microsoft SQL
+
 OS: Win 7,8,10
+
 Language: English - Pre-Intermediate, Ukraine, Russian - fluent
+
 Code examples:
 
 ```
