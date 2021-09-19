@@ -1,4 +1,9 @@
 body {
   margin: 0 auto;
+  width: 960px;
+
   text-align: center;
+}
+main {
+  text-align: left;
 }
